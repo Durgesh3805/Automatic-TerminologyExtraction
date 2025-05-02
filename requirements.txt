@@ -18,8 +18,11 @@ PyYAML==6.0.2
 regex==2024.11.6
 requests==2.32.3
 safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.2
 setuptools==80.1.0
 sympy==1.14.0
+threadpoolctl==3.6.0
 tokenizers==0.21.1
 torch==2.7.0
 tqdm==4.67.1
