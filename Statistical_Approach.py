@@ -6,6 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 
 # Download required NLTK resources
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
